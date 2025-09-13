@@ -3,6 +3,10 @@
 
 #include "framework.h"
 #include "YalEngine.h"
+#include "..\\YalEngineSorce\YalApplication.h"
+
+
+Application app;
 
 #define MAX_LOADSTRING 100
 
@@ -27,6 +31,8 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance, // 프로그램의 인스턴스 
 
     // TODO: 여기에 코드를 입력합니다.
 
+    app.test();
+
     // 전역 문자열을 초기화합니다.
     LoadStringW(hInstance, IDS_APP_TITLE, szTitle, MAX_LOADSTRING);
     LoadStringW(hInstance, IDC_YALENGINE, szWindowClass, MAX_LOADSTRING); // 다른 프로세스 네임
@@ -42,15 +48,41 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance, // 프로그램의 인스턴스 
 
     MSG msg;
 
-    // 기본 메시지 루프입니다:
-    while (GetMessage(&msg, nullptr, 0, 0))
+    
+    while (true)
+    {
+        //메세지가 있으면
+        if (PeekMessage(&msg, nullptr, 0, 0, PM_REMOVE))
+        {
+            if (msg.message == WM_QUIT)
+            {
+                break;
+            }
+
+            if (!TranslateAccelerator(msg.hwnd, hAccelTable, &msg))
+            {
+                TranslateMessage(&msg);
+                DispatchMessage(&msg);
+            }
+
+        }
+        else //없으면 실행
+        {
+            //매프레임 게임로직
+
+        }
+    }
+
+
+    // 프로세스에서 발생한 메세지를 메세지 큐에서 가져오는 함수, 아무것도 없다면 가져오지않는다
+    /*while (GetMessage(&msg, nullptr, 0, 0))
     {
         if (!TranslateAccelerator(msg.hwnd, hAccelTable, &msg))
         {
             TranslateMessage(&msg);
             DispatchMessage(&msg);
         }
-    }
+    }*/
 
     return (int) msg.wParam;
 }

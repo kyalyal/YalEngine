@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "YalEngine", "YalEngine\YalEngine.vcxproj", "{588C64D6-0D71-4A0B-ADA3-CFF8E17A85BC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "YalEgnineCore", "YalEgnineCore\YalEgnineCore.vcxproj", "{CF8A5CE6-0EF2-4341-AD5C-323D16E87BA8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "YalEngineSorce", "YalEngineSorce\YalEngineSorce.vcxitems", "{F6BE198F-16A9-4EED-AAE9-618B3C9F2C5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,11 +25,23 @@ Global
 		{588C64D6-0D71-4A0B-ADA3-CFF8E17A85BC}.Release|x64.Build.0 = Release|x64
 		{588C64D6-0D71-4A0B-ADA3-CFF8E17A85BC}.Release|x86.ActiveCfg = Release|Win32
 		{588C64D6-0D71-4A0B-ADA3-CFF8E17A85BC}.Release|x86.Build.0 = Release|Win32
+		{CF8A5CE6-0EF2-4341-AD5C-323D16E87BA8}.Debug|x64.ActiveCfg = Debug|x64
+		{CF8A5CE6-0EF2-4341-AD5C-323D16E87BA8}.Debug|x64.Build.0 = Debug|x64
+		{CF8A5CE6-0EF2-4341-AD5C-323D16E87BA8}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF8A5CE6-0EF2-4341-AD5C-323D16E87BA8}.Debug|x86.Build.0 = Debug|Win32
+		{CF8A5CE6-0EF2-4341-AD5C-323D16E87BA8}.Release|x64.ActiveCfg = Release|x64
+		{CF8A5CE6-0EF2-4341-AD5C-323D16E87BA8}.Release|x64.Build.0 = Release|x64
+		{CF8A5CE6-0EF2-4341-AD5C-323D16E87BA8}.Release|x86.ActiveCfg = Release|Win32
+		{CF8A5CE6-0EF2-4341-AD5C-323D16E87BA8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BED8F63D-C03E-4A64-B4AB-2928EF120E7C}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		YalEngineSorce\YalEngineSorce.vcxitems*{cf8a5ce6-0ef2-4341-ad5c-323d16e87ba8}*SharedItemsImports = 4
+		YalEngineSorce\YalEngineSorce.vcxitems*{f6be198f-16a9-4eed-aae9-618b3c9f2c5f}*SharedItemsImports = 9
 	EndGlobalSection
 EndGlobal
