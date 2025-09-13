@@ -148,6 +148,31 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
             PAINTSTRUCT ps;
             HDC hdc = BeginPaint(hWnd, &ps);
             // TODO: 여기에 hdc를 사용하는 그리기 코드를 추가합니다...
+
+            HBRUSH brush = CreateSolidBrush(RGB(0, 0, 255)); // 배경 변경
+            HBRUSH oldBrush = (HBRUSH)SelectObject(hdc, brush); //선택
+
+            Rectangle(hdc, 100, 100, 200, 200); // 네모 그려주기
+            
+
+            DeleteObject(brush); // 메모리에 남지않게 삭제
+            SelectObject(hdc, oldBrush); // 다시 하얀배경 선택
+
+            HPEN redPen = CreatePen(PS_SOLID, 3, RGB(255, 0, 0)); //빨간펜 변경
+            HPEN oldPen = (HPEN)SelectObject(hdc, redPen); //선택
+
+            Ellipse(hdc, 200, 200, 300, 300); // 동그라미 그려주기
+
+            SelectObject(hdc, oldPen);
+            DeleteObject(redPen);
+
+
+            //스톡오브젝트 사용하는 법
+            HBRUSH grayBrush = (HBRUSH)GetStockObject(GRAY_BRUSH);
+            oldBrush = (HBRUSH)SelectObject(hdc, grayBrush);
+            Rectangle(hdc, 400, 400, 500, 500); // 네모 그려주기
+
+
             EndPaint(hWnd, &ps);
         }
         break;
