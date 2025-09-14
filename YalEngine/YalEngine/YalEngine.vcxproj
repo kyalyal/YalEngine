@@ -55,8 +55,7 @@
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
   <ImportGroup Label="ExtensionSettings">
   </ImportGroup>
-  <ImportGroup Label="Shared">
-  </ImportGroup>
+  <ImportGroup Label="Shared" />
   <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
   </ImportGroup>
@@ -147,8 +146,8 @@
     <Image Include="YalEngine.ico" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\YalEgnineCore\YalEgnineCore.vcxproj">
-      <Project>{cf8a5ce6-0ef2-4341-ad5c-323d16e87ba8}</Project>
+    <ProjectReference Include="..\YalEngineCore\YalEngineCore.vcxproj">
+      <Project>{e61fffb1-d2f0-4e89-bc71-5190bf4aa477}</Project>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

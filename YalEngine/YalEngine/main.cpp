@@ -3,10 +3,10 @@
 
 #include "framework.h"
 #include "YalEngine.h"
-#include "..\\YalEngineSorce\YalApplication.h"
+#include "..\\YalEngineSource\YalApplication.h"
 
 
-Application app;
+yal::Application application;
 
 #define MAX_LOADSTRING 100
 
@@ -31,7 +31,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance, // 프로그램의 인스턴스 
 
     // TODO: 여기에 코드를 입력합니다.
 
-    app.test();
+    
 
     // 전역 문자열을 초기화합니다.
     LoadStringW(hInstance, IDS_APP_TITLE, szTitle, MAX_LOADSTRING);
@@ -69,20 +69,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance, // 프로그램의 인스턴스 
         else //없으면 실행
         {
             //매프레임 게임로직
-
+            application.Run();
         }
     }
 
 
-    // 프로세스에서 발생한 메세지를 메세지 큐에서 가져오는 함수, 아무것도 없다면 가져오지않는다
-    /*while (GetMessage(&msg, nullptr, 0, 0))
-    {
-        if (!TranslateAccelerator(msg.hwnd, hAccelTable, &msg))
-        {
-            TranslateMessage(&msg);
-            DispatchMessage(&msg);
-        }
-    }*/
 
     return (int) msg.wParam;
 }
@@ -133,6 +124,8 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
        //가로위치, 세로위치, 가로크기, 세로크기
       CW_USEDEFAULT, 0, CW_USEDEFAULT, 0, nullptr, nullptr, hInstance, nullptr);
 
+   application.Initialize(hWnd);
+
    if (!hWnd)
    {
       return FALSE;
@@ -180,29 +173,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
             PAINTSTRUCT ps;
             HDC hdc = BeginPaint(hWnd, &ps);
             // TODO: 여기에 hdc를 사용하는 그리기 코드를 추가합니다...
-
-            HBRUSH brush = CreateSolidBrush(RGB(0, 0, 255)); // 배경 변경
-            HBRUSH oldBrush = (HBRUSH)SelectObject(hdc, brush); //선택
-
-            Rectangle(hdc, 100, 100, 200, 200); // 네모 그려주기
-            
-
-            DeleteObject(brush); // 메모리에 남지않게 삭제
-            SelectObject(hdc, oldBrush); // 다시 하얀배경 선택
-
-            HPEN redPen = CreatePen(PS_SOLID, 3, RGB(255, 0, 0)); //빨간펜 변경
-            HPEN oldPen = (HPEN)SelectObject(hdc, redPen); //선택
-
-            Ellipse(hdc, 200, 200, 300, 300); // 동그라미 그려주기
-
-            SelectObject(hdc, oldPen);
-            DeleteObject(redPen);
-
-
-            //스톡오브젝트 사용하는 법
-            HBRUSH grayBrush = (HBRUSH)GetStockObject(GRAY_BRUSH);
-            oldBrush = (HBRUSH)SelectObject(hdc, grayBrush);
-            Rectangle(hdc, 400, 400, 500, 500); // 네모 그려주기
 
 
             EndPaint(hWnd, &ps);
