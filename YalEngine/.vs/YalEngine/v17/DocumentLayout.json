@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\YalApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\YalApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\YalApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\YalApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YalApplication.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\YalApplication.h",
+              "RelativeDocumentMoniker": "YalEngineSource\\YalApplication.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\YalApplication.h",
+              "RelativeToolTip": "YalEngineSource\\YalApplication.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-14T06:34:16.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YalApplication.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\YalApplication.cpp",
+              "RelativeDocumentMoniker": "YalEngineSource\\YalApplication.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\YalApplication.cpp",
+              "RelativeToolTip": "YalEngineSource\\YalApplication.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-14T06:34:13.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

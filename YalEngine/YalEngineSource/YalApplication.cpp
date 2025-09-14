@@ -2,7 +2,12 @@
 
 namespace yal
 {
-	Application::Application() : _hwnd(nullptr), _hdc(nullptr), _speed(0.01)
+	Application::Application() :
+		_hwnd(nullptr),
+		_hdc(nullptr),
+		_speed(0.f),
+		_x(0.f),
+		_y(0.f)
 	{
 
 	}
@@ -21,6 +26,24 @@ namespace yal
 	void Application::Tick()
 	{
 		_speed += 0.01;
+
+		if (GetAsyncKeyState(VK_LEFT) & 0x8000)
+		{
+			_x -= 0.01f;
+		}
+		if (GetAsyncKeyState(VK_RIGHT) & 0x8000)
+		{
+			_x += 0.01f;
+		}
+		if (GetAsyncKeyState(VK_UP) & 0x8000)
+		{
+			_y -= 0.01f;
+		}
+		if (GetAsyncKeyState(VK_DOWN) & 0x8000)
+		{
+			_y += 0.01f;
+		}
+
 	}
 
 	void Application::PostTick()
@@ -47,7 +70,7 @@ namespace yal
 		HPEN oldPen = (HPEN)SelectObject(_hdc, redPen); //선택
 		
 
-		Rectangle(_hdc, 100 + _speed, 100, 200 + _speed, 200); // 네모 그려주기
+		Rectangle(_hdc, 100 + _x, 100+_y, 200+_x , 200+_y ); // 네모 그려주기
 
 
 		//배경삭제

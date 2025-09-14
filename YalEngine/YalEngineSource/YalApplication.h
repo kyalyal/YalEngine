@@ -22,6 +22,8 @@ namespace yal
 		HDC _hdc;
 
 		float _speed;
+		float _x;
+		float _y;
 	};
 }
 
