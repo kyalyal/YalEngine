@@ -6,7 +6,7 @@
 #include "..\\YalEngineSource\YalApplication.h"
 
 
-yal::Application application;
+Application application;
 
 #define MAX_LOADSTRING 100
 

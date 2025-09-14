@@ -15,10 +15,16 @@
     <ProjectCapability Include="SourceItemsFromImports" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="$(MSBuildThisFileDirectory)Actor.h" />
     <ClInclude Include="$(MSBuildThisFileDirectory)CommonInclude.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)Pawn.h" />
     <ClInclude Include="$(MSBuildThisFileDirectory)YalApplication.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)GameObject.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="$(MSBuildThisFileDirectory)Actor.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)Pawn.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)YalApplication.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)GameObject.cpp" />
   </ItemGroup>
 </Project>
