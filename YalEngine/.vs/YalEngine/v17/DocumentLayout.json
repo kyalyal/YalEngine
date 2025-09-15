@@ -7,36 +7,16 @@
       "RelativeMoniker": "D:0:0:{E61FFFB1-D2F0-4E89-BC71-5190BF4AA477}|YalEngineCore\\YalEngineCore.vcxproj|solutionrelative:YalEngineSource\\InputComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\InputComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\InputComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\YalApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\YalApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E61FFFB1-D2F0-4E89-BC71-5190BF4AA477}|YalEngineCore\\YalEngineCore.vcxproj|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\InputComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E61FFFB1-D2F0-4E89-BC71-5190BF4AA477}|YalEngineCore\\YalEngineCore.vcxproj|solutionrelative:YalEngineSource\\InputComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\YalApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\YalApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\YalApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\YalApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -47,12 +27,28 @@
       "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{588C64D6-0D71-4A0B-ADA3-CFF8E17A85BC}|YalEngine\\YalEngine.vcxproj|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{588C64D6-0D71-4A0B-ADA3-CFF8E17A85BC}|YalEngine\\YalEngine.vcxproj|solutionrelative:YalEngine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57993EF5-5972-4DC9-AB70-E0B4EC6FC116}|YalEngineSource\\YalEngineSource.vcxitems|solutionrelative:YalEngineSource\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,8 +58,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Component.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Component.h",
+              "RelativeDocumentMoniker": "YalEngineSource\\Component.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Component.h",
+              "RelativeToolTip": "YalEngineSource\\Component.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-15T12:17:15.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngine\\main.cpp",
+              "RelativeDocumentMoniker": "YalEngine\\main.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngine\\main.cpp",
+              "RelativeToolTip": "YalEngine\\main.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-14T10:56:31.798Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -72,7 +94,7 @@
               "RelativeDocumentMoniker": "YalEngineSource\\InputComponent.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\InputComponent.cpp",
               "RelativeToolTip": "YalEngineSource\\InputComponent.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-14T12:40:00.774Z",
               "EditorCaption": ""
@@ -85,22 +107,9 @@
               "RelativeDocumentMoniker": "YalEngineSource\\InputComponent.h",
               "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\InputComponent.h",
               "RelativeToolTip": "YalEngineSource\\InputComponent.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABTAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-14T12:28:28.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Component.h",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Component.h",
-              "RelativeDocumentMoniker": "YalEngineSource\\Component.h",
-              "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Component.h",
-              "RelativeToolTip": "YalEngineSource\\Component.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T12:27:56.456Z",
               "EditorCaption": ""
             },
             {
@@ -111,58 +120,23 @@
               "RelativeDocumentMoniker": "YalEngineSource\\Pawn.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Pawn.cpp",
               "RelativeToolTip": "YalEngineSource\\Pawn.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-14T11:15:04.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Pawn.h",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Pawn.h",
-              "RelativeDocumentMoniker": "YalEngineSource\\Pawn.h",
-              "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Pawn.h",
-              "RelativeToolTip": "YalEngineSource\\Pawn.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T11:14:21.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngine\\main.cpp",
-              "RelativeDocumentMoniker": "YalEngine\\main.cpp",
-              "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngine\\main.cpp",
-              "RelativeToolTip": "YalEngine\\main.cpp",
-              "ViewState": "AQIAAKsAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-14T10:56:31.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Actor.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Actor.cpp",
-              "RelativeDocumentMoniker": "YalEngineSource\\Actor.cpp",
-              "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Actor.cpp",
-              "RelativeToolTip": "YalEngineSource\\Actor.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-14T10:51:03.439Z",
+              "WhenOpened": "2025-09-14T11:15:04.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Actor.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Actor.h",
               "RelativeDocumentMoniker": "YalEngineSource\\Actor.h",
               "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Actor.h",
               "RelativeToolTip": "YalEngineSource\\Actor.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T10:48:28.459Z"
+              "WhenOpened": "2025-09-14T10:48:28.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -172,13 +146,14 @@
               "RelativeDocumentMoniker": "YalEngineSource\\GameObject.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\GameObject.cpp",
               "RelativeToolTip": "YalEngineSource\\GameObject.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-14T10:35:35.108Z"
+              "WhenOpened": "2025-09-14T10:35:35.108Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "GameObject.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\GameObject.h",
               "RelativeDocumentMoniker": "YalEngineSource\\GameObject.h",
@@ -186,44 +161,59 @@
               "RelativeToolTip": "YalEngineSource\\GameObject.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T10:30:47.704Z"
+              "WhenOpened": "2025-09-14T10:30:47.704Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "YalApplication.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\YalApplication.h",
               "RelativeDocumentMoniker": "YalEngineSource\\YalApplication.h",
               "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\YalApplication.h",
               "RelativeToolTip": "YalEngineSource\\YalApplication.h",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-14T06:34:16.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "YalApplication.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\YalApplication.cpp",
               "RelativeDocumentMoniker": "YalEngineSource\\YalApplication.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\YalApplication.cpp",
               "RelativeToolTip": "YalEngineSource\\YalApplication.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-14T06:34:13.772Z"
+              "WhenOpened": "2025-09-14T06:34:13.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Component.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Component.cpp",
               "RelativeDocumentMoniker": "YalEngineSource\\Component.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Component.cpp",
               "RelativeToolTip": "YalEngineSource\\Component.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-14T12:28:09.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Actor.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Actor.cpp",
+              "RelativeDocumentMoniker": "YalEngineSource\\Actor.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\YalEngine\\YalEngine\\YalEngineSource\\Actor.cpp",
+              "RelativeToolTip": "YalEngineSource\\Actor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-14T10:51:03.439Z",
               "EditorCaption": ""
             }
           ]

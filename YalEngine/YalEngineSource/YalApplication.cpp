@@ -1,5 +1,5 @@
 #include "YalApplication.h"
-
+#include "InputComponent.h"
 
 Application::Application() :
 	_hwnd(nullptr),
@@ -19,12 +19,14 @@ void Application::Initialize(HWND hwnd)
 	_hwnd = hwnd;
 	_hdc = GetDC(hwnd);
 
-		
+	InputComponent::InitInputComponent();
 }
 
 void Application::Tick()
 {
+	InputComponent::InputComponentUpate();
 	_Player.Tick();
+	
 }
 
 void Application::PostTick()

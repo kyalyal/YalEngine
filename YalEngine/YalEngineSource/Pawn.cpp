@@ -1,8 +1,15 @@
 #include "Pawn.h"
+#include "InputComponent.h"
+
+
+Pawn::Pawn()
+{
+}
+
 
 void Pawn::Tick()
 {
-	if (GetAsyncKeyState(VK_LEFT) & 0x8000)
+	if (InputComponent::GetKey(EKeyCode::A))
 	{
 		_Location._X -= 0.01f;
 	}
